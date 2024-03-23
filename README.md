@@ -5,7 +5,7 @@ Comfy-UI-inspired RAG Modules for implementing custom LLM applications
 Try it in the [demo site](https://www.google.com).
 
 
-![Node Graph](1.png "WebGLStudio")
+![Modular Rag Diagram from @yufan1602 on Medium](imgs/modular_rag.png "Modular Rag Diagram ")
 
 ## Features
 
@@ -52,5 +52,6 @@ Open your browser and point it to http://127.0.0.1:8000. You can select a demo f
 
 - [Ragas, an evaluation framework for your Retrieval Augmented Generation (RAG) pipelines](https://github.com/explodinggradients/ragas)
 
+- [Best-README-Template, for READMEs like this one](https://github.com/othneildrew/Best-README-Template)
 <!--git reset --hard HEAD^ -->
 <!--git push origin -f -->
